@@ -1,0 +1,15 @@
+D:\demo-projects\MappingDate\MappingDate\bin\Debug\net6.0\MappingDate.exe
+D:\demo-projects\MappingDate\MappingDate\bin\Debug\net6.0\MappingDate.deps.json
+D:\demo-projects\MappingDate\MappingDate\bin\Debug\net6.0\MappingDate.runtimeconfig.json
+D:\demo-projects\MappingDate\MappingDate\bin\Debug\net6.0\MappingDate.dll
+D:\demo-projects\MappingDate\MappingDate\bin\Debug\net6.0\MappingDate.pdb
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.csproj.AssemblyReference.cache
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.AssemblyInfoInputs.cache
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.AssemblyInfo.cs
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.csproj.CoreCompileInputs.cache
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.dll
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\refint\MappingDate.dll
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.pdb
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\MappingDate.genruntimeconfig.cache
+D:\demo-projects\MappingDate\MappingDate\obj\Debug\net6.0\ref\MappingDate.dll
